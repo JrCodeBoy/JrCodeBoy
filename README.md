@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JrCodeBoy, I am a computer scientist with an architectural design background
-- 👀 I’m interested in Data, Machine learning, AI, Busines consultancy and Business Arquitechture & Integrations
+- 👀 I’m interested in Data, Machine learning, AI, Busines consultancy and Data Arquitechture & Integrations
 - 🌱 I’m currently learning about AI and BlockChain
 - 💞️ I’m looking to collaborate at any proyect that gives me the chance to add value to software solutions delivery.
 - 📫 How to reach me: You can send me an email and i will reach out as soon as possible: Jr.codeboy@gmail.com
